@@ -11,8 +11,6 @@ Firebase ML Kit comes with the following machine learning APIs which are impleme
 9. On-device Translation
 10. Smart Reply
 
-This is an open-source project where you can find the implemented source code from the link provided below or in application
-https://github.com/shivamkumard107/FirebaseMLKit
 
 You simply pass in data to the ML Kit library and it will give you the information you need. The on-device APIs process data quickly and will work even when there’s no network connection.
 
@@ -35,5 +33,3 @@ You simply pass in data to the ML Kit library and it will give you the informati
     * Run your app on your device, and you are done!
 
 - Link for additional info: https://developer.android.com/studio/write/firebase
-
-[link]: https://stackoverflow.com/questions/15727912/sha-1-fingerprint-of-keystore-certificate
